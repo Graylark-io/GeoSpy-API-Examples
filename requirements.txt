@@ -1,0 +1,6 @@
+matplotlib
+aiohttp
+asyncio
+pillow
+folium
+nest_asyncio
